@@ -1,0 +1,10 @@
+{
+  "name": "Mahjong entre amis",
+  "short_name": "Mahjong",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#123456",
+  "theme_color": "#123456",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
