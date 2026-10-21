@@ -4,6 +4,7 @@ services:
     name: mahjong
     runtime: node
     plan: free
+    region: frankfurt
     buildCommand: npm ci --include=dev && npm run build
     startCommand: npm start
     healthCheckPath: /health
